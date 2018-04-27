@@ -1,5 +1,5 @@
 ##Retail sale predicitons with multiple algorithms  
-#This repository is for final data science porject made by Haoqi Huang,Pei Yu and Yitong Liu.
+
 -------------------------------------------------------------------------------------------------------------------------------
 Today, online shopping is growing really fast. Our project is about the online store income forecast, Real retail shop sale prediction based on random forest model, and BigMart retail sale prediction.
 To make a research of retail business by the data science technology, the whole project is divided into three parts:In the first part, we cleaned and explored data first. Then we used RNN/LSTM to forecast the online store daily income. The second part, different csv files were merged and the prediction was made by Random Forest Model. The third part, we used five models try to understand the properties of products and stores, and to find out which part plays a key role in increasing sales.
